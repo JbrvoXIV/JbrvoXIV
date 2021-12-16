@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JbrvoXIV
 - 👀 I’m interested in programming as a whole. From front-end to back-end to game development and web development, I'm interested in all aspects of programming.
-- 🌱 I’m currently learning Java, HTML, CSS. In college pursuing my Bachelors in Computer Science.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript, HTML, CSS. In Florida International University pursuing my Bachelors in Computer Science.
 - 📫 How to reach me: LinkedIn -> linkedin.com/in/jordan-bravo-2a5870170
                        Email -> jbravo0423@gmail.com
 
