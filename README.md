@@ -1,4 +1,4 @@
-##Hi, I’m Jordan Bravo!
+## Hi, I’m Jordan Bravo!
 I'm an aspiring Web Dev and Computer Science student at Florida International University.
 
 I've been self-teaching front-end languages and frameworks for about 4 months now.
