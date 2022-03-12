@@ -1,13 +1,20 @@
 ## Hi, I’m Jordan Bravo!
-I'm an aspiring Web Dev and Computer Science student at Florida International University.
+I'm an aspiring Web Developer/Software Engineer and Computer Science student at Florida International University.
 
-I've been self-teaching front-end languages and frameworks for about 4 months now.
+I've been self-teaching front-end development for 4 months now and have just recently gone into back-end and fullstack programming.
 
-I am proficient with Front End languages and frameworks such as React.js.
+My current skillset is comprised of:
 
-I have also started using Back End more frequently through the likes of Express.js and Node.js.
+Front-End:
+- HTML, CSS, JavaScript (ECMA6)
+- React.js
+- SASS, Styled Components
 
-I am currently learning the complete MERN stack and have started creating some projects with them.
+Back-End:
+- Node.js, Express.js
+- Mongoose (MongoDB)
+
+I am also fluent in Java and OOP.
 
 📫 How to reach me:
 
